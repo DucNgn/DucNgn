@@ -8,6 +8,11 @@ I'm Duc (Duke) Nguyen.
 - 👨🏻‍💻  I love participating in Hackathons, and do coding projects. 
 - 📫  Connect with me on [LinkedIn](https://www.linkedin.com/in/ductringn/)
 
+#### Hackathons I joined 🚀
++ ConU Hacks 2020
++ Defhacks 2020
++ Hack The 6ix 2020
+
 #### Projects I have completed ✅
 + [COVID-19 Detector](https://github.com/DukeNgn/COVID19-Detector): A website that uses Machine Learning to detect the probability of contracting COVID-19 based on Chest CT Scan Images (Submission to Hack The 6ix 2020).
 + [Dog Breed Classifier](https://github.com/DukeNgn/Dog-breed-Classifier): A web app that classifies dog breed based on images.
@@ -23,11 +28,6 @@ I'm Duc (Duke) Nguyen.
 + Building my online portfolio from scratch
 + Learn JavaScript and TypeScript
 + Learn to transit from REST to GraphQL
-
-#### Hackathons I joined 🚀
-+ ConU Hacks 2020
-+ Defhacks 2020
-+ Hack The 6ix 2020
 
 #### My bucket list of things to learn/do 🌱:
 > in Software field of course, I have a life and a dog other than this 🤷🏻‍♂️
