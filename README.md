@@ -4,6 +4,8 @@
 ![](https://komarev.com/ghpvc/?username=DukeNgn&color=brightgreen)
 
 I'm Duc (Duke) Nguyen.
+[Click here](https://www.ducnguyen.dev/) to go to my website
+
 - 🎓  I'm a Computer Science (Software Systems option) student at Concordia University. 
 - 👨🏻‍💻  I love participating in Hackathons, and do coding projects. 
 - 📫  Connect with me on [LinkedIn](https://www.linkedin.com/in/ductringn/)
