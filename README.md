@@ -3,11 +3,12 @@
 #### Welcome to my Github's profile
 ![](https://komarev.com/ghpvc/?username=DukeNgn&color=brightgreen)
 
-I'm Duc (Duke) Nguyen.
+I'm Duc (Duke) Nguyen. 
+
 [My portfolio](https://www.ducnguyen.dev/)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DukeNgn&hide=css,html&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DukeNgn&hide=css,jupyter%20notebook&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🎓  I'm a Computer Science (Software Systems option) student at Concordia University. 
 - 👨🏻‍💻  I love participating in Hackathons, and do coding projects. 
@@ -30,7 +31,7 @@ I'm Duc (Duke) Nguyen.
 + [Tell-Us](https://github.com/DukeNgn/Tell-Us): A project aims to support people with mental illness. (Submission to ConUHacks V)
 
 #### What I'm working on 👨🏻‍💻
-+ Dig in Django
++ Diging in Django
 + Working on Eclipse Theia
 
 #### My bucket list of things to learn/do 🌱:
