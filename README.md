@@ -8,6 +8,9 @@ I'm Duc (Duke) Nguyen.
 [My portfolio](https://www.ducnguyen.dev/)
 
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DukeNgn&hide=css,jupyter%20notebook&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🎓  I'm a Computer Science (Software Systems option) student at Concordia University. 
