@@ -1,26 +1,22 @@
-## Hi there 👋
+## Hi there 👋 
 
 #### Welcome to my Github's profile
+
 ![](https://komarev.com/ghpvc/?username=DukeNgn&color=brightgreen)
-
-I'm Duc (Duke) Nguyen. 
-
-[My portfolio](https://www.ducnguyen.dev/)
-
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DukeNgn&hide=css,jupyter%20notebook&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🎓  I'm a Computer Science (Software Systems option) student at Concordia University. 
 - 👨🏻‍💻  I love participating in Hackathons, and do coding projects. 
 - 📫  Connect with me on [LinkedIn](https://www.linkedin.com/in/ductringn/)
+- 💻 Check out [my portfolio](https://www.ducnguyen.dev/) 
 
-#### Hackathons I joined 🚀
-+ ConU Hacks 2020
-+ Defhacks 2020
-+ Hack The 6ix 2020
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DukeNgn&hide=css,jupyter%20notebook&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+#### What I'm working on 👨🏻‍💻
++ Diging in Django
++ Working on Eclipse Theia
 
 #### Projects I have completed ✅
 + [COVID-19 Detector](https://github.com/DukeNgn/COVID19-Detector): A website that uses Machine Learning to detect the probability of contracting COVID-19 based on Chest CT Scan Images (Submission to Hack The 6ix 2020).
@@ -33,9 +29,6 @@ I'm Duc (Duke) Nguyen.
     - [The main repo](https://github.com/DukeNgn/New-Haven-Board-Game)
 + [Tell-Us](https://github.com/DukeNgn/Tell-Us): A project aims to support people with mental illness. (Submission to ConUHacks V)
 
-#### What I'm working on 👨🏻‍💻
-+ Diging in Django
-+ Working on Eclipse Theia
 
 #### My bucket list of things to learn/do 🌱:
 > in Software field of course, I have a life and a dog other than this 🤷🏻‍♂️
