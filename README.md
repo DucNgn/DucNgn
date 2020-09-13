@@ -9,6 +9,27 @@ I'm Duc (Duke) Nguyen.
 
 
 <!--START_SECTION:waka-->
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.4%20million%20lines%20of%20code-blue)
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: America/New_York
+
+💬 Programming Languages: 
+TypeScript               2 hrs 2 mins        █████████████░░░░░░░░░░░░   53.81% 
+Markdown                 52 mins             █████░░░░░░░░░░░░░░░░░░░░   22.89% 
+HTML                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.05% 
+VimL                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.12% 
+Bash                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.32%
+
+🔥 Editors: 
+Vim                      2 hrs 9 mins        ██████████████░░░░░░░░░░░   56.97% 
+VS Code                  1 hr 37 mins        ██████████░░░░░░░░░░░░░░░   43.03%
+
+```
+
+
 <!--END_SECTION:waka-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DukeNgn&hide=css,jupyter%20notebook&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
