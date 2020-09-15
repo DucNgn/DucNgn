@@ -9,8 +9,6 @@
 - 📫  Connect with me on [LinkedIn](https://www.linkedin.com/in/ductringn/)
 - 💻 Check out [my portfolio](https://www.ducnguyen.dev/) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DukeNgn&hide=css,jupyter%20notebook&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.4%20million%20lines%20of%20code-blue)
 
