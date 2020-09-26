@@ -34,7 +34,7 @@ Vim                      1 hr 21 mins        █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 #### What I'm working on 👨🏻‍💻
-+ Diging in Django
++ Digging in Django
 + Working on Eclipse Theia
 
 #### Projects I have completed ✅
