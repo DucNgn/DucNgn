@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there :wave:, I'm Duc  </h1>
+<h1 align="center"> Hi there :wave:, I'm Duc </h1>
 
 <p align="center">
 <a href="https://www.ducnguyen.dev/"><img src="https://img.shields.io/badge/Portfolio-Duc%20Nguyen-informational" alt="portfolio: https://www.ducnguyen.dev/"></a>
@@ -19,6 +19,7 @@
 
 
 ## About me:
+- :information_desk_person:  I'm Đức - Duc - Duke - :sound: / dük /
 - 🎓  I'm a Computer Science (Software Systems option) student at Concordia University.
 - 👨🏻‍💻  I love participating in Hackathons, and do coding projects.
 - :octocat:-ing using:
