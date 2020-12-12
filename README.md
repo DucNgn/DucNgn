@@ -11,33 +11,26 @@
 </p>
 
 <p align="center" width="100%">
-<img src="octocat.png"
+<img src="octocat-hacker.gif"
      alt="My Octocat"
      width= 50%
      height= 50% />
 </p>
 
-
 ## About me:
-- :information_desk_person:  I'm Đức - Duc - Duke - :sound: / dük /
-- 🎓  I'm a Computer Science (Software Systems option) student at Concordia University.
-- 👨🏻‍💻  I love participating in Hackathons, and do coding projects.
-- :octocat:-ing using:
-    + ![](https://img.shields.io/badge/Apple-Macbook%20pro%202020-%23999999.svg?&style=flat&logo=apple&logoColor=white)
-    + ![](https://img.shields.io/badge/Linux-Kubuntu-orange?style=flat&logo=Ubuntu)
 
-![Duc's github stats](https://github-readme-stats.vercel.app/api?username=DukeNgn&show_icons=true&theme=vue&count_private=true)
-
-[![Duc's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DukeNgn&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+- :information_desk_person: I'm Đức - Duc - Duke - :sound: / dük /
+- 🎓 I'm a Computer Science (Software Systems option) student at Concordia University.
+- 👨🏻‍💻 I love participating in Hackathons, and do coding projects.
 
 <details>
 <summary>
 <strong>What I'm doing :point_down:</strong>
 </summary>
 
-+ Working on Eclipse Theia
-+ Learning Machine Learning/AI
-+ Just messing around in general :open_hands:
+- Working on Eclipse Theia
+- Learning Machine Learning/AI
+- Just messing around in general :open_hands:
 
 </details>
 
@@ -49,11 +42,12 @@ My bucket list of things to learn/do 🌱:
 </summary>
 
 > in Software field of course, I have a life and a dog other than this 🤷🏻‍♂️
-+ [ ] Work on a project that has multithreading aspect
-+ [ ] Create a Chrome plugin
-+ [ ] Learn OpenCV
-+ [ ] Learn more about Rust
-+ [ ] Write a Vim/NeoVim plugin with Rust or Python
-+ [ ] Always wonder about Go, will give it a try!
+
+- [ ] Work on a project that has multithreading aspect
+- [ ] Create a Chrome plugin
+- [ ] Learn OpenCV
+- [ ] Learn more about Rust
+- [ ] Write a Vim/NeoVim plugin with Rust or Python
+- [ ] Always wonder about Go, will give it a try!
 
 </details>
