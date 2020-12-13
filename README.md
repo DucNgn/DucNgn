@@ -51,3 +51,8 @@ My bucket list of things to learn/do 🌱:
 - [ ] Always wonder about Go, will give it a try!
 
 </details>
+
+<p align=center>
+<br>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=DukeNgn&layout=compact" />
+</p>
