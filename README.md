@@ -10,13 +10,6 @@
 <img src="https://komarev.com/ghpvc/?username=DukeNgn&color=blue" alt="view count" />
 </p>
 
-<p align="center" width="100%">
-<img src="octocat-hacker.gif"
-     alt="My Octocat"
-     width= 50%
-     height= 50% />
-</p>
-
 ## About me:
 
 - :information_desk_person: I'm Đức - Duc - Duke - :sound: / dük /
@@ -30,7 +23,7 @@
 
 - Working on Eclipse Theia
 - Learning Machine Learning/AI
-- Just messing around in general :open_hands:
+- Just messing around :open_hands:
 
 </details>
 
