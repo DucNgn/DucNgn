@@ -10,42 +10,7 @@
 <img src="https://komarev.com/ghpvc/?username=DukeNgn&color=blue" alt="view count" />
 </p>
 
-## About me:
 
-- :information_desk_person: I'm Đức - Duc - Duke - :sound: / dük /
-- 🎓 I'm a Computer Science (Software Systems option) student at Concordia University.
-- 👨🏻‍💻 I love participating in Hackathons, and do coding projects.
-
-<details>
-<summary>
-<strong>What I'm doing :point_down:</strong>
-</summary>
-
-- Working on Eclipse Theia
-- Learning Machine Learning/AI
-- Just messing around :open_hands:
-
-</details>
-
-<details>
-<summary>
-<strong>
-My bucket list of things to learn/do 🌱:
-</strong>
-</summary>
-
-> in Software field of course, I have a life and a dog other than this 🤷🏻‍♂️
-
-- [ ] Work on a project that has multithreading aspect
-- [ ] Create a Chrome plugin
-- [ ] Learn OpenCV
-- [ ] Learn more about Rust
-- [ ] Write a Vim/NeoVim plugin with Rust or Python
-- [ ] Always wonder about Go, will give it a try!
-
-</details>
-
-<p align=center>
-<br>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=DukeNgn&layout=compact" />
+<p align="center">
+<img src="https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif" alt="doggo-typing">
 </p>
