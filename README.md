@@ -12,5 +12,5 @@
 
 
 <p align="center">
-<img src="https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif" alt="doggo-typing">
+<img src="https://media.giphy.com/media/13HBDT4QSTpveU/giphy.gif" alt="doggo-typing">
 </p>
