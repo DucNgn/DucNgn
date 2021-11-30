@@ -12,5 +12,21 @@
 
 
 <p align="center">
-<img src="https://media.giphy.com/media/SwImQhtiNA7io/giphy.gif" alt="doggo-typing">
+<img src="https://media2.giphy.com/media/xUOwGj1jwTZq5Kh3Ko/giphy.gif?cid=ecf05e47mozxppgedhp8vp28tv5xjbgovss56yuehwnbcd9v&rid=giphy.gif&ct=g" alt="doggo-to-the-moon">
 </p>
+
+## On my way to become:
++ Technology Analyst (Software Developer Intern) at [Morgan Stanley](https://www.morganstanley.com)
++ Campus Expert at [GitHub](https://education.github.com/experts)
+
+## I'm currently:
+
+ + VP of tech at [HackConcordia](https://hackconcordia.io/). We're organizing [ConUHacks VI](https://conuhacks.io/)
+ + Mentor at [Concordia Institute for Co-operative Education](https://www.concordia.ca/academics/co-op.html)
+ + Final year Computer Science Student at [Concordia University](https://www.concordia.ca)
+ 
+ ## I was:
+ + Undergraduate Research Assistant at [Concordia University](https://www.concordia.ca)
+ + Software Developer Intern at [DRW Trading](https://drw.com/)
+ + Software Developer Intern at [Ericsson](https://www.ericsson.com/en)
+ + Open-source Contributor for [Eclipse Theia](https://github.com/eclipse-theia/theia)
