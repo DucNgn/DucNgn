@@ -15,12 +15,10 @@
 <img src="https://media2.giphy.com/media/xUOwGj1jwTZq5Kh3Ko/giphy.gif?cid=ecf05e47mozxppgedhp8vp28tv5xjbgovss56yuehwnbcd9v&rid=giphy.gif&ct=g" alt="doggo-to-the-moon">
 </p>
 
-## On my way:
-+ Technology Analyst (Software Developer Intern) at [Morgan Stanley](https://www.morganstanley.com)
-+ Campus Expert at [GitHub](https://education.github.com/experts)
-
 ## I'm currently:
 
++ Technology Analyst (Software Developer Intern) at [Morgan Stanley](https://www.morganstanley.com)
++ Campus Expert at [GitHub](https://education.github.com/experts)
  + VP of tech at [HackConcordia](https://hackconcordia.io/), we're organizing [ConUHacks VI](https://conuhacks.io/)
  + Mentor at [Concordia Institute for Co-operative Education](https://www.concordia.ca/academics/co-op.html)
  + Final year Computer Science Student at [Concordia University](https://www.concordia.ca)
