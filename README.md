@@ -12,7 +12,7 @@
 
 
 <p align="center">
-<img src="https://media2.giphy.com/media/xUOwGj1jwTZq5Kh3Ko/giphy.gif?cid=ecf05e47mozxppgedhp8vp28tv5xjbgovss56yuehwnbcd9v&rid=giphy.gif&ct=g" alt="doggo-to-the-moon">
+<img src="https://media2.giphy.com/media/ChpOyeacGmpQk/giphy.gif?cid=ecf05e479437sz6hlezzflwz6w1mjj8u9o3o7x8psw99zvlj&rid=giphy.gif&ct=g" alt="doggo-to-the-moon">
 </p>
 
 # About me
