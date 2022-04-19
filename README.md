@@ -19,13 +19,13 @@
 
 I code for fun and for 🍕. On the side, I love mentoring and helping folks in tech!
 
-I'm currently interning at [Morgan Stanley](https://www.morganstanley.com).
+I'm interning at [DRW Trading](https://drw.com) the second time.
 I'm also an active [GitHub Campus Expert](https://githubcampus.expert/DukeNgn).
 
 ## In the past
 - Vice-President of Tech at [HackConcordia](https://hackconcordia.io). We organized [ConUHacks VI](https://2022.conuhacks.io)
 
-- Software Engineer Intern at [DRW Trading](https://drw.com) and [Ericsson](https://www.ericsson.com) (was doing open-source for [Eclipse Theia](https://github.com/eclipse-theia/theia))
+- Software Engineer Intern at [Morgan Stanley](https://www.morganstanley.com), [DRW Trading](https://drw.com) and [Ericsson](https://www.ericsson.com) (was doing open-source for [Eclipse Theia](https://github.com/eclipse-theia/theia))
 
 
 - Undergraduate Research Assistant at [Concordia University](https://www.concordia.ca/)
