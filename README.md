@@ -4,10 +4,6 @@
 <a href="https://www.ducnguyen.dev/"><img src="https://img.shields.io/badge/Portfolio-Duc%20Nguyen-informational" alt="portfolio: https://www.ducnguyen.dev/"></a>
 <a href="https://www.linkedin.com/in/ducngn/"><img src="https://img.shields.io/badge/-Duc_Nguyen-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" alt="Linkedin: https://www.linkedin.com/in/ducngn/"></a>
 </p>
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=DucNgn&color=blue" alt="view count" />
-</p>
-
 
 <p align="center">
 <img src="https://media2.giphy.com/media/ChpOyeacGmpQk/giphy.gif?cid=ecf05e479437sz6hlezzflwz6w1mjj8u9o3o7x8psw99zvlj&rid=giphy.gif&ct=g" alt="doggo-to-the-moon">
