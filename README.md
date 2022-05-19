@@ -2,12 +2,10 @@
 
 <p align="center">
 <a href="https://www.ducnguyen.dev/"><img src="https://img.shields.io/badge/Portfolio-Duc%20Nguyen-informational" alt="portfolio: https://www.ducnguyen.dev/"></a>
-<a href="https://www.linkedin.com/in/ductringn/"><img src="https://img.shields.io/badge/-Duc_Nguyen-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" alt="Linkedin: https://www.linkedin.com/in/ductringn/"></a>
-<a href="https://wakatime.com/@DukeNgn"><img src="https://img.shields.io/badge/Wakatime-DukeNgn-success?&logo=wakatime&style=flat" alt="Wakatime"></a>
+<a href="https://www.linkedin.com/in/ducngn/"><img src="https://img.shields.io/badge/-Duc_Nguyen-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" alt="Linkedin: https://www.linkedin.com/in/ducngn/"></a>
 </p>
 <p align="center">
-<img src="https://img.shields.io/badge/Vim-Lover-brightgreen?&logo=Vim">
-<img src="https://komarev.com/ghpvc/?username=DukeNgn&color=blue" alt="view count" />
+<img src="https://komarev.com/ghpvc/?username=DucNgn&color=blue" alt="view count" />
 </p>
 
 
@@ -19,8 +17,8 @@
 
 I code for fun and for 🍕. On the side, I love mentoring and helping folks in tech!
 
-I'm interning at [DRW Trading](https://drw.com) the second time.
 I'm also an active [GitHub Campus Expert](https://githubcampus.expert/DukeNgn).
+I'm interning at [DRW Trading](https://drw.com) the second time.
 
 ## In the past
 - Vice-President of Tech at [HackConcordia](https://hackconcordia.io). We organized [ConUHacks VI](https://2022.conuhacks.io)
@@ -35,5 +33,5 @@ I'm also an active [GitHub Campus Expert](https://githubcampus.expert/DukeNgn).
 
 
 <p align="center">
-  <img src="https://github.com/DukeNgn/DukeNgn/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/DucNgn/DucNgn/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
