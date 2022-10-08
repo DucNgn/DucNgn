@@ -6,20 +6,17 @@
 </p>
 
 <p align="center">
-<img src="https://media2.giphy.com/media/ChpOyeacGmpQk/giphy.gif?cid=ecf05e479437sz6hlezzflwz6w1mjj8u9o3o7x8psw99zvlj&rid=giphy.gif&ct=g" alt="doggo-to-the-moon">
+<img src="https://media1.giphy.com/media/NmGbJwLl7Y4lG/giphy.gif?cid=ecf05e47yv27vg2xw7684orpczye8xo9yyhmvqekod83z1si&rid=giphy.gif&ct=g" alt="doggo">
 </p>
 
 # About me
 
 I code for fun and for 🍕. On the side, I love mentoring and helping folks in tech!
 
-I'm also an active [GitHub Campus Expert](https://githubcampus.expert/DukeNgn).
-I'm interning at [DRW Trading](https://drw.com) the second time.
-
 ## In the past
 - Vice-President of Tech at [HackConcordia](https://hackconcordia.io). We organized [ConUHacks VI](https://2022.conuhacks.io)
 
-- Software Engineer Intern at [Morgan Stanley](https://www.morganstanley.com), [DRW Trading](https://drw.com) and [Ericsson](https://www.ericsson.com) (was doing open-source for [Eclipse Theia](https://github.com/eclipse-theia/theia))
+- Software Engineer Intern at [Morgan Stanley](https://www.morganstanley.com), [DRW Trading](https://drw.com) (Twice), and [Ericsson](https://www.ericsson.com) (was doing open-source for [Eclipse Theia](https://github.com/eclipse-theia/theia))
 
 
 - Undergraduate Research Assistant at [Concordia University](https://www.concordia.ca/)
