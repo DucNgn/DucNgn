@@ -5,10 +5,6 @@
 <a href="https://www.linkedin.com/in/ducngn/"><img src="https://img.shields.io/badge/-Duc_Nguyen-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" alt="Linkedin: https://www.linkedin.com/in/ducngn/"></a>
 </p>
 
-<p align="center">
-<img src="https://media1.giphy.com/media/NmGbJwLl7Y4lG/giphy.gif?cid=ecf05e47yv27vg2xw7684orpczye8xo9yyhmvqekod83z1si&rid=giphy.gif&ct=g" alt="doggo">
-</p>
-
 # About me
 
 I code for fun and for 🍕. On the side, I love mentoring and helping folks in tech!
